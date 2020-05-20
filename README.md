@@ -13,6 +13,8 @@ vi /etc/sysconfig/selinux
 查看：getenforce  
 
 3.安装mongo  
+见(https://github.com/BoolWang/PythonMongo)  
+
 
 
   
